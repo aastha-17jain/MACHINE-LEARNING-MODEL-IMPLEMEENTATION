@@ -58,3 +58,4 @@ Confusion matrices further elucidate model performance, highlighting true positi
 
 Conclusion
 The project successfully demonstrates the application of scikit-learn in building an effective spam detection model. By transforming raw text into meaningful numerical features and employing various classification algorithms, the model achieves commendable accuracy in distinguishing spam from legitimate messages. Such models are instrumental in enhancing email security and user experience.
+![Image](https://github.com/user-attachments/assets/4cf5bafa-2ff8-42ed-86b0-58cf22864d24)
